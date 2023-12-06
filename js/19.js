@@ -1,4 +1,4 @@
-//Consicionales condicion || y &&
+//Condicionales condicion || y &&
 
 const saldo = 600
 const pagar = 500
