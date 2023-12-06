@@ -13,7 +13,7 @@ const cliente = {
 }
 
 
-// Hay que tener en cuenta que e objeto no se puede modificar 
+// Hay que tener en cuenta que e objeto no se debe modificar 
 // Metodo 1
 
 // const nuevoObjeto = Object.assign(producto, cliente) No funciona este metodo por que se pierden datos 

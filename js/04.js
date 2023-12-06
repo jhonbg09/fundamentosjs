@@ -3,7 +3,7 @@
 // const nombre = "Tablet";
 // const precio = 300;
 // const disponible = true;
-
+// Se puede reescribir de esta manera
 const producto = {
     nombre: "Tablet",
     precio: 300,

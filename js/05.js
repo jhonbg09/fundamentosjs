@@ -11,8 +11,8 @@ const producto = {
 console.table(producto);
 
 //Object.seal()
-// Object.seal(producto) on esta propiedad si medeja modificar las propiedades pero no me deja crearlas ni eliminarlas 
-//Solo puedo odificar propiedades existentes.
+// Object.seal(producto) no, esta propiedad si me deja modificar los atributos pero no me deja crear ni eliminar propiedades 
+//Solo puedo modificar propiedades existentes.
 producto.nombre = "Monitor Curvo";
 producto.precio = 600;
 producto.disponible = false;
